@@ -1,0 +1,3 @@
+Cat(concatenate) command is very frequently used in Linux. It reads data from the file and gives their content as output.
+
+Example: cat file1 - will show the content of file1
